@@ -1,10 +1,36 @@
-- 👋 Hi, I’m Govind Soni
-- 👀 I’m interested in making projects like arduino circuits, web apps, making new friends and travelling.
-- 🌱 I’m currently learning flask.
-- 💞️ I’m looking to collaborate for hackathons and amazing projects.
-- 📫 How to reach me ... govindsoni23engineer@gmail.com
+# Hi there, I'm Govind Soni! 👋
 
-<!---
-Gsoni23/Gsoni23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about technology and love to create exciting projects that blend hardware and software. Here's a little bit about me:
+
+- 🔭 I enjoy building a wide range of projects, from Arduino circuits to web applications.
+- 🌱 I'm currently diving deep into the fascinating world of computer vision and artificial intelligence, with a focus on integrating them into IoT projects.
+- 👯 I'm always open to collaboration, whether it's for hackathons, innovative projects, or simply to make new friends in the tech community.
+- 🌍 Besides coding, I have a strong wanderlust and love to explore new places and cultures.
+
+## 💼 Skills and Interests
+
+- **Programming Languages:** Python, JavaScript, C, C++, Java
+- **Technologies:** OpenCV, Flask, Redis, Celery
+- **Hardware:** Arduino, ESP8266
+- **Web Development:** HTML, CSS, JavaScript, Flask, VueJS
+- **Databases:** SQLite
+- **Software:** Postman, MATLAB
+
+## 🚀 Projects
+
+Here are a few projects I'm proud of:
+
+1. [Show-Booking-Web-Application](https://github.com/Gsoni23/Show-Booking-Web-Application.git): Built a simple web application using flask and jinja to book movie tickets.
+  
+Feel free to explore my repositories to see more of my work!
+
+## 📫 Let's Connect!
+
+I'm always eager to connect with fellow developers, collaborate on exciting projects, or just chat about technology. You can reach out to me via:
+
+- 📧 Email: gsoni.2301@gmail.com
+- 💬 [LinkedIn](https://www.linkedin.com/in/govind-s-7996a610a)
+- 🐦 [Twitter](https://twitter.com/master_ovi)
+- 📸 [Instagram](https://www.instagram.com/alpha_govind)
+
+Let's create amazing things together! 😄
