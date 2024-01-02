@@ -32,7 +32,7 @@ I'm always eager to connect with fellow developers, collaborate on exciting proj
 
 - 📧 Email: gsoni.2301@gmail.com
 - 💬 [LinkedIn](https://www.linkedin.com/in/govind-s-7996a610a)
-- 🐦 [Twitter](https://twitter.com/master_ovi)
+- 🐦 [Twitter](https://twitter.com/Code_N_lift)
 - 📸 [Instagram](https://www.instagram.com/alpha_govind)
 
 Let's create amazing things together! 😄
